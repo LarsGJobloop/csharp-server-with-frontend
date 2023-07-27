@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QrzF18sdqs7lnP0gv5zdeixY3Kj2VoVH/Nq8EGHrvNc=",
+  "Source": "server-with-frontend",
+  "BasePath": "_content/server-with-frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server-with-frontend/wwwroot",
+      "Source": "server-with-frontend",
+      "ContentRoot": "/workspaces/server-with-frontend/wwwroot/",
+      "BasePath": "_content/server-with-frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/server-with-frontend/wwwroot/index.html",
+      "SourceId": "server-with-frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/server-with-frontend/wwwroot/",
+      "BasePath": "_content/server-with-frontend",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

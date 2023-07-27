@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/server-with-frontend/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.server-with-frontend.props",
+      "PackagePath": "build\\server-with-frontend.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.server-with-frontend.props",
+      "PackagePath": "buildMultiTargeting\\server-with-frontend.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.server-with-frontend.props",
+      "PackagePath": "buildTransitive\\server-with-frontend.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.server-with-frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/server-with-frontend.props" />
+</Project>
